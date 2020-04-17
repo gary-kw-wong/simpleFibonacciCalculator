@@ -31,7 +31,9 @@ It all starts on a day, when a friend talked to me that he likes playing Roulett
 
 I know Reactive Native or Ionic is very famous for developing hybrid mobile app. And I, personally, had also developed mobile app. with Reactive Native (+ javascript) and also had develop an web-app with Angular (+ Typescript). Then why would I choose Flutter (+ Dart) for this app? What is the difference from the others?
 
-My feeling of dveloping mobile app. using Reactive Nature (+ javascript / +typescript) or web-app using Angular (+ typescript), they are quite similar on certain aspects: 
+React Native
+------------
+My feeling of dveloping mobile app. using React Native (+ javascript / +typescript) or web-app using Angular (+ typescript), they are quite similar on certain aspects: 
  
   1. Other than learning about the framework, and incorporating your business logic to the framework; there are many situations that you also need to handle with 3rd parties plugins / libraries for specific effect, state handling, function control (e.g. bluetooth handling) , or even layout. Some of them are even  charged for using (I know ... there is no free lunch in this world). 
   
@@ -42,6 +44,8 @@ My feeling of dveloping mobile app. using Reactive Nature (+ javascript / +types
   4. For it to be easier understand by some guys who are more familiar to backend development, the whole feeling is like Spring (Framework) + Java (language).
 
 
+Flutter
+-------
 How about Flutter (+Dart)? My feeling on it is that:
 
   1. it's more like writing Java Swing (which is implementing UI Layout, you're writing Java; while implemeting business logic, you're also writing Java). All the HTML elements are objectized (e.g. Row, Column, Divider, etc.)
@@ -51,6 +55,8 @@ How about Flutter (+Dart)? My feeling on it is that:
   3. Due to the advantage in Point 2, less extra effort is required to look for appropriate external plugins.
   
 
+Summary
+-------
 Although from the above points, looks like I have bias to keen on using Flutter (+Dart) at all, it's not true. Because there is still one point need to consider: **Project scale + team size**
 
   1. If the project scale is not small, and the team is in certain size, then why not consider React Native which may help to separate tasks, achive the same goal easier.
