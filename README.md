@@ -1,6 +1,6 @@
 # SimpleFibonacciCalculator (Reference: friendlychat)
 
-![Main Layout](link-to-image)
+<img src="https://user-images.githubusercontent.com/12118835/79595080-d0c12480-8110-11ea-99c9-84f697741a3d.png" width="10%" height="10%"><img src="https://user-images.githubusercontent.com/12118835/79595105-ddde1380-8110-11ea-88f0-81a0e8f80773.jpg" width="25%" height="25%">
 
 This project is a simple mobile calculator for calculating next or last Fibonacci number by simply pressing on + / - buttons on the screen.
 
